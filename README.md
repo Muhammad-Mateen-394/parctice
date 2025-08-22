@@ -1,2 +1,2 @@
-# parctice
+# practice
 first project
